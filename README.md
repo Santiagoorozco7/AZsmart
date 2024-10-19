@@ -78,8 +78,58 @@ Edita el archivo appsettings.json (para .NET Core) o Web.config (para .NET Frame
 
 
 ### Funcionalidades
+#### Seccion Libros
+1. Listar libros agregados.
+   
+![Listar libros agregados.](img/ListaLA.png)
 
-1. 
+2. Agregar Libros.
+   
+![AgregarLibro](img/AgregarLibro.png)
+
+3. Editar Libro.
+
+![EditarLibro](img/EditarLibro.png)
+
+4. Detalles de los Libros.
+
+![DetallesLibros](img/DetallesLibros.png)
+
+5. Eliminar Libro.
+
+![EliminarLibros](img/EliminarLibro.png)
+
+#### Seccion Autores
+
+1. Lista de Autores.
+
+![ListaAutores](img/ListaAutores.png)
+
+2. Agregar Autor. Los autores que se agreguen seran los predeterminados para agregar un libro.
+
+![AgregarAutor](img/AgregarAutor.png)
+
+3. Editar Autor.
+
+![EditarAutor](img/EditarAutor.png)
+
+4. Detalles de Autores.
+
+![DetallesAutores](img/DetallesAutores.png)
+
+5. Eliminar Autores.
+
+![EliminarAutores](img/EliminarAutores.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
