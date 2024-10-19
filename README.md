@@ -23,7 +23,7 @@ Se ha utilizado ASP.NET MVC con C#, Base de datos: SQL Server, conexion a base d
       USE AZsmart;
       CREATE USER softwareAZ FOR LOGIN softwareAZ;
 
-- asignacion de permisos para creacion de tablas sobre usuario softwareAZ.
+- Asignacion de permisos para creacion de tablas sobre usuario softwareAZ.
 
       ALTER SERVER ROLE sysadmin 
       ADD MEMBER softwareAZ;
@@ -75,6 +75,16 @@ Crea una nueva base de datos en SQL Server
 #### 3. Configurar la cadena de conexión
 Edita el archivo appsettings.json (para .NET Core) o Web.config (para .NET Framework) y ajusta la cadena de conexión para tu base de datos:
 #### 4. Ejecutar la aplicación
+
+
+### Funcionalidades
+
+1. 
+
+
+
+
+
 
 
 
