@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\AZsmart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|c:\\users\\user\\source\\repos\\azsmart\\azsmart\\views\\biblioteca\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|solutionrelative:azsmart\\views\\biblioteca\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|c:\\users\\user\\source\\repos\\azsmart\\azsmart\\views\\biblioteca\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|solutionrelative:azsmart\\views\\biblioteca\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|c:\\users\\user\\source\\repos\\azsmart\\azsmart\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|solutionrelative:azsmart\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|c:\\users\\user\\source\\repos\\azsmart\\azsmart\\views\\biblioteca\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|solutionrelative:azsmart\\views\\biblioteca\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|C:\\Users\\USER\\source\\repos\\AZsmart\\azsmart\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|solutionrelative:azsmart\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|C:\\Users\\USER\\source\\repos\\AZsmart\\azsmart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|solutionrelative:azsmart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|c:\\users\\user\\source\\repos\\azsmart\\azsmart\\autores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|solutionrelative:azsmart\\autores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|c:\\users\\user\\source\\repos\\azsmart\\azsmart\\views\\autor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|solutionrelative:azsmart\\views\\autor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|c:\\users\\user\\source\\repos\\azsmart\\azsmart\\views\\biblioteca\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|solutionrelative:azsmart\\views\\biblioteca\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|c:\\users\\user\\source\\repos\\azsmart\\azsmart\\views\\autor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|solutionrelative:azsmart\\views\\autor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|c:\\users\\user\\source\\repos\\azsmart\\azsmart\\views\\autor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|solutionrelative:azsmart\\views\\autor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|c:\\users\\user\\source\\repos\\azsmart\\azsmart\\views\\autor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|solutionrelative:azsmart\\views\\autor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|c:\\users\\user\\source\\repos\\azsmart\\azsmart\\views\\autor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|solutionrelative:azsmart\\views\\autor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|c:\\users\\user\\source\\repos\\azsmart\\azsmart\\views\\biblioteca\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{657A7223-038E-4041-AFB9-84CB59EFC135}|AZsmart\\AZsmart.csproj|solutionrelative:azsmart\\views\\biblioteca\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Autores.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Autores.cs",
+              "RelativeDocumentMoniker": "AZsmart\\Autores.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Autores.cs",
+              "RelativeToolTip": "AZsmart\\Autores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:11:24.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Biblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Biblioteca.cs",
+              "RelativeDocumentMoniker": "AZsmart\\Biblioteca.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Biblioteca.cs",
+              "RelativeToolTip": "AZsmart\\Biblioteca.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:07:31.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Views\\Autor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AZsmart\\Views\\Autor\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Views\\Autor\\Edit.cshtml",
+              "RelativeToolTip": "AZsmart\\Views\\Autor\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T16:27:36.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Views\\Autor\\Index.cshtml",
+              "RelativeDocumentMoniker": "AZsmart\\Views\\Autor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Views\\Autor\\Index.cshtml",
+              "RelativeToolTip": "AZsmart\\Views\\Autor\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T16:26:47.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Views\\Biblioteca\\Create.cshtml",
+              "RelativeDocumentMoniker": "AZsmart\\Views\\Biblioteca\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Views\\Biblioteca\\Create.cshtml",
+              "RelativeToolTip": "AZsmart\\Views\\Biblioteca\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T16:25:45.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Views\\Biblioteca\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AZsmart\\Views\\Biblioteca\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Views\\Biblioteca\\Delete.cshtml",
+              "RelativeToolTip": "AZsmart\\Views\\Biblioteca\\Delete.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T16:24:25.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Views\\Biblioteca\\Details.cshtml",
+              "RelativeDocumentMoniker": "AZsmart\\Views\\Biblioteca\\Details.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Views\\Biblioteca\\Details.cshtml",
+              "RelativeToolTip": "AZsmart\\Views\\Biblioteca\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T16:23:48.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Views\\Biblioteca\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AZsmart\\Views\\Biblioteca\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Views\\Biblioteca\\Edit.cshtml",
+              "RelativeToolTip": "AZsmart\\Views\\Biblioteca\\Edit.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCgAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T16:22:20.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Views\\Biblioteca\\Index.cshtml",
+              "RelativeDocumentMoniker": "AZsmart\\Views\\Biblioteca\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Views\\Biblioteca\\Index.cshtml",
+              "RelativeToolTip": "AZsmart\\Views\\Biblioteca\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T22:37:52.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "AZsmart\\Controllers\\AutorController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "AZsmart\\Controllers\\AutorController.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAswG8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:36:17.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AZsmart\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AZsmart\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T22:21:54.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Views\\Autor\\Details.cshtml",
+              "RelativeDocumentMoniker": "AZsmart\\Views\\Autor\\Details.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Views\\Autor\\Details.cshtml",
+              "RelativeToolTip": "AZsmart\\Views\\Autor\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T16:28:10.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Views\\Autor\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AZsmart\\Views\\Autor\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Views\\Autor\\Delete.cshtml",
+              "RelativeToolTip": "AZsmart\\Views\\Autor\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T16:29:37.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Views\\Autor\\Create.cshtml",
+              "RelativeDocumentMoniker": "AZsmart\\Views\\Autor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AZsmart\\AZsmart\\Views\\Autor\\Create.cshtml",
+              "RelativeToolTip": "AZsmart\\Views\\Autor\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T16:30:44.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

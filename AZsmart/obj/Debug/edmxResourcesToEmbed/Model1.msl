@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AZsmartModelStoreContainer" CdmEntityContainer="AZsmartEntities">
+    <EntitySetMapping Name="Autores">
+      <EntityTypeMapping TypeName="AZsmartModel.Autores">
+        <MappingFragment StoreEntitySet="Autores">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Biblioteca">
+      <EntityTypeMapping TypeName="AZsmartModel.Biblioteca">
+        <MappingFragment StoreEntitySet="Biblioteca">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="titulo" ColumnName="titulo" />
+          <ScalarProperty Name="autor_id" ColumnName="autor_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

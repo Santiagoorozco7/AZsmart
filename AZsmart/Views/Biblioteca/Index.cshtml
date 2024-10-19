@@ -1,0 +1,42 @@
+﻿@model IEnumerable<AZsmart.Biblioteca>
+
+@{
+    ViewBag.Title = "Libros";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Libros</h2>
+
+<p>
+    @Html.ActionLink("Agregar libro", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @*@Html.DisplayNameFor(model => model.titulo)*@
+            LIBRO
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.Autores.nombre)*@
+            AUTOR
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.titulo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Autores.nombre)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.id }) |
+            @Html.ActionLink("Detalles", "Details", new { id=item.id }) |
+            @Html.ActionLink("Eliminar", "Delete", new { id=item.id })
+        </td>
+    </tr>
+}
+
+</table>

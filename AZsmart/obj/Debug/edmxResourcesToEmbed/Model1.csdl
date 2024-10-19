@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AZsmartModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Autores">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Biblioteca" Relationship="Self.FK__Bibliotec__autor__5EBF139D" FromRole="Autores" ToRole="Biblioteca" />
+  </EntityType>
+  <EntityType Name="Biblioteca">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="titulo" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="autor_id" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Autores" Relationship="Self.FK__Bibliotec__autor__5EBF139D" FromRole="Biblioteca" ToRole="Autores" />
+  </EntityType>
+  <Association Name="FK__Bibliotec__autor__5EBF139D">
+    <End Role="Autores" Type="Self.Autores" Multiplicity="1" />
+    <End Role="Biblioteca" Type="Self.Biblioteca" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Autores">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Biblioteca">
+        <PropertyRef Name="autor_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="AZsmartEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Autores" EntityType="Self.Autores" />
+    <EntitySet Name="Biblioteca" EntityType="Self.Biblioteca" />
+    <AssociationSet Name="FK__Bibliotec__autor__5EBF139D" Association="Self.FK__Bibliotec__autor__5EBF139D">
+      <End Role="Autores" EntitySet="Autores" />
+      <End Role="Biblioteca" EntitySet="Biblioteca" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
